@@ -9,7 +9,7 @@ metadata:
 spec:
   source:
     git:
-      url: https://github.com/alexandreroman/spring-petclinic-tap
+      url: https://github.com/bullblock/spring-petclinic-tap.git
       ref:
         branch: main
   params:
